@@ -1,7 +1,0 @@
-{
-  "modelVersion": "2025.09.03-001",
-  "files": [
-    {"name": "next1m.tflite", "sha256": "PLACEHOLDER_SHA256"},
-    {"name": "calib.json", "sha256": "PLACEHOLDER_SHA256"}
-  ]
-}
