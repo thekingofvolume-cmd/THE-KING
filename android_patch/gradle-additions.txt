@@ -1,0 +1,6 @@
+Dependencies to add:
+- implementation("com.squareup.okhttp3:okhttp:4.12.0")
+- implementation("org.tensorflow:tensorflow-lite:2.14.0")
+- implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.8.1")
+Proguard: keep org.tensorflow, okhttp3.
+Min SDK 28+ recommended for Ed25519.
